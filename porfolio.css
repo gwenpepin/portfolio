@@ -1,6 +1,7 @@
 img {width: 60%;
-	align-content: right;
+	align: right;
 }
 
 body {background-color: #f0e6d1;
+	text-align: center;
 }
